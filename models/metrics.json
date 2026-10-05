@@ -1,0 +1,66 @@
+{
+  "selected": "Logistic Regression",
+  "metrics": {
+    "Logistic Regression": {
+      "accuracy": 0.6675,
+      "precision": 0.6714661952598574,
+      "recall": 0.6492361111111111,
+      "f1": 0.6570581149600766,
+      "cv_f1": 0.663964218745138,
+      "confusion_matrix": [
+        [
+          251,
+          65,
+          4
+        ],
+        [
+          77,
+          184,
+          39
+        ],
+        [
+          11,
+          70,
+          99
+        ]
+      ]
+    },
+    "Random Forest": {
+      "accuracy": 0.66125,
+      "precision": 0.6701458289797708,
+      "recall": 0.6381018518518519,
+      "f1": 0.6481776652347465,
+      "cv_f1": 0.6488805600256822,
+      "confusion_matrix": [
+        [
+          246,
+          71,
+          3
+        ],
+        [
+          71,
+          192,
+          37
+        ],
+        [
+          7,
+          82,
+          91
+        ]
+      ]
+    }
+  },
+  "info": {
+    "n_samples": 4000,
+    "n_features": 12,
+    "n_classes": 3,
+    "n_train": 3200,
+    "n_test": 800,
+    "class_counts": [
+      1597,
+      1501,
+      902
+    ],
+    "data_source": "Synthetic (seed=42)"
+  }
+}

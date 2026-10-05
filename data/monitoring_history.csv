@@ -1,0 +1,4 @@
+timestamp,age,sleep_hours,mood,stress,anxiety,social_interaction,social_isolation,activity_level,trauma_symptoms,intrusive_thoughts,nightmares,hypervigilance,wellbeing_score,risk_score,predicted_risk,risk_probability,prob_low,prob_moderate,prob_high
+2026-10-05 19:24:17,19,6.0,5.0,2.0,2.0,2.0,2.0,3.0,0.0,0.0,1.0,0.0,70.9,10.5,Low,0.0065,0.7968,0.1967,0.0065
+2026-10-05 19:26:47,19,4.0,1.0,10.0,10.0,0.5,0.5,0.5,3.0,3.0,3.0,3.0,29.1,95.8,High,0.9168,0.0003,0.0829,0.9168
+2026-10-05 19:26:52,19,4.0,1.0,10.0,10.0,0.5,0.5,0.5,3.0,3.0,3.0,3.0,29.1,95.8,High,0.9168,0.0003,0.0829,0.9168
